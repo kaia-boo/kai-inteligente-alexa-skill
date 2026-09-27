@@ -1,0 +1,12 @@
+# Segredos - nunca versionar
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SO
+.DS_Store
